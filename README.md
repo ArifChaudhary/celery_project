@@ -1,17 +1,17 @@
- 
+# Celery-Project
+django-celery-email-send
+send email using django celery
+
+
 A Django email backend that uses a Celery queue for out-of-band sending of the messages.
 
 Warning
 
 This version requires the following versions:
 
-Python >= 3.5
-Django 2.2, and 3.0
-Celery 4.0
-
-# Celery-Project
-django-celery-email-send
-send email using django celery
+Python >= 3.6
+Django 3.2
+Celery 5.0.5
 
 Installation
 You can install Celery either via the Python Package Index (PyPI) or from source.
