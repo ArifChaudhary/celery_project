@@ -1,4 +1,4 @@
-# celery_project
+# Celery-Project
 django-celery-email-send
 send email using django celery
 
